@@ -1,0 +1,193 @@
+E:\VS_program\Main\Main\obj\Debug\Main.FMain.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Properties.Resources.resources
+E:\VS_program\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+E:\VS_program\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+E:\VS_program\Main\Main\bin\Debug\Main.exe.config
+E:\VS_program\Main\Main\bin\Debug\Main.exe
+E:\VS_program\Main\Main\bin\Debug\Main.pdb
+E:\VS_program\Main\Main\bin\Debug\MySql.Data.dll
+E:\VS_program\Main\Main\bin\Debug\SunnyUI.dll
+E:\VS_program\Main\Main\bin\Debug\Google.Protobuf.dll
+E:\VS_program\Main\Main\bin\Debug\Zstandard.Net.dll
+E:\VS_program\Main\Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VS_program\Main\Main\bin\Debug\BouncyCastle.Crypto.dll
+E:\VS_program\Main\Main\bin\Debug\Ubiety.Dns.Core.dll
+E:\VS_program\Main\Main\bin\Debug\Renci.SshNet.dll
+E:\VS_program\Main\Main\bin\Debug\System.Buffers.dll
+E:\VS_program\Main\Main\bin\Debug\K4os.Compression.LZ4.dll
+E:\VS_program\Main\Main\bin\Debug\K4os.Hash.xxHash.dll
+E:\VS_program\Main\Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS_program\Main\Main\bin\Debug\MySql.Data.xml
+E:\VS_program\Main\Main\bin\Debug\SunnyUI.pdb
+E:\VS_program\Main\Main\obj\Debug\Main.csproj.CopyComplete
+E:\VS_program\Main\Main\obj\Debug\Main.exe
+E:\VS_program\Main\Main\obj\Debug\Main.pdb
+E:\VS_program\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+E:\VS_program\Main\Main\obj\Debug\Main.Form_register.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_login.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_Administrator.resources
+E:\VS_program\Main\Main\obj\Debug\Main.FAvater.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Administrator_Goods.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_SaleResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_SaleMoneyResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_MonthSaleResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_MonthSaleMoneyResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Administrator_Transport.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_TransMoneyResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_Customer.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_Seller.resources
+E:\VS_program\Main\Main\obj\Debug\Main.MyInformation.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Customer_Order.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Administrator_Customer.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_EvaResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_ProResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_QuaResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_TypeProResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_TypeQuaResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.OrderPage.resources
+E:\VS_program\Main\Main\obj\Debug\Main.OrderDataGridView.resources
+E:\VS_program\Main\Main\obj\Debug\Main.AD_CUS_COSTDAY.resources
+E:\VS_program\Main\Main\obj\Debug\Main.AD_CUS_COSTMONTH.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Form_MyShop.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_Shop.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_ShopSale.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_ShopGoods.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_ShopEva.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_ShopStaff.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Seller_ShopEvaResult.resources
+E:\VS_program\Main\Main\obj\Debug\Main.Customer_BuyHistory.resources
+E:\VS_program\Main\Main\obj\Debug\Main.OrderPageDetails.resources
+E:\VS_program\Main\Main\obj\Debug\Main.SEL_storesale_moneyrusl.resources
+E:\VS_program\Main\Main\obj\Debug\Main.SEL_storesale_result.resources
+E:\VS_program\Main\Main\obj\Debug\Main.SEL_goods_money.resources
+E:\VS_program\Main\Main\obj\Debug\Main.SEL_goods_qua.resources
+E:\VS_program\Main\Main\obj\Debug\Main.BuyHisMonth.resources
+E:\VS_program\Main\Main\obj\Debug\Main.BuyMoneyByType.resources
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Main.exe.config
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Main.exe
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Main.pdb
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\MySql.Data.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Google.Protobuf.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Zstandard.Net.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\Renci.SshNet.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\System.Buffers.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\MySql.Data.xml
+C:\Users\13417\Desktop\Main\Main\Main\bin\Debug\SunnyUI.pdb
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Administrator_Customer.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Administrator_Goods.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.AD_CUS_COSTDAY.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.AD_CUS_COSTMONTH.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.BuyHisMonth.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.BuyMoneyByType.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Customer_BuyHistory.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Customer_Order.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_EvaResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_MyShop.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_ProResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_QuaResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_TypeProResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_TypeQuaResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.MyInformation.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Administrator_Transport.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_Administrator.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.FAvater.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.FMain.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_Customer.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_login.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_MonthSaleMoneyResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_MonthSaleResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_register.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_SaleMoneyResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_SaleResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_Seller.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Form_TransMoneyResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.OrderDataGridView.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.OrderPage.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.OrderPageDetails.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_Shop.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_ShopEva.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_ShopEvaResult.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_ShopGoods.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_ShopSale.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.Seller_ShopStaff.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.SEL_goods_money.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.SEL_goods_qua.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.SEL_storesale_moneyrusl.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.SEL_storesale_result.resources
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.exe
+C:\Users\13417\Desktop\Main\Main\Main\obj\Debug\Main.pdb
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Main.exe.config
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Main.exe
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Main.pdb
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\MySql.Data.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Google.Protobuf.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Zstandard.Net.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\Renci.SshNet.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\System.Buffers.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\MySql.Data.xml
+C:\Users\13417\Desktop\Main - 副本\Main\Main\bin\Debug\SunnyUI.pdb
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Administrator_Customer.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Administrator_Goods.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.AD_CUS_COSTDAY.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.AD_CUS_COSTMONTH.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.BuyHisMonth.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.BuyMoneyByType.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Customer_BuyHistory.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Customer_Order.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_EvaResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_MyShop.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_ProResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_QuaResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_TypeProResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_TypeQuaResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.MyInformation.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Administrator_Transport.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_Administrator.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.FAvater.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.FMain.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_Customer.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_login.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_MonthSaleMoneyResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_MonthSaleResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_register.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_SaleMoneyResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_SaleResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_Seller.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Form_TransMoneyResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.OrderDataGridView.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.OrderPage.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.OrderPageDetails.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_Shop.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_ShopEva.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_ShopEvaResult.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_ShopGoods.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_ShopSale.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.Seller_ShopStaff.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.SEL_goods_money.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.SEL_goods_qua.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.SEL_storesale_moneyrusl.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.SEL_storesale_result.resources
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.exe
+C:\Users\13417\Desktop\Main - 副本\Main\Main\obj\Debug\Main.pdb
